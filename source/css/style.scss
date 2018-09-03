@@ -157,6 +157,9 @@ div {
         .category-list-count::after {
             content: ")";
         }
+        .category-list-child {
+            margin-left: 10px;
+        }
         .search-form {
             position: relative;
             overflow: hidden;
